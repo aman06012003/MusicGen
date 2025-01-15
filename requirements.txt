@@ -1,0 +1,4 @@
+audiocraft
+numpy==1.24.1
+streamlit
+torch
